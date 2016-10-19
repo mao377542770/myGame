@@ -1,4 +1,4 @@
-﻿package com.mao.corpse;
+package com.mao.corpse;
 
 
 import java.io.File;

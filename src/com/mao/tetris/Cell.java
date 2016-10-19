@@ -1,4 +1,4 @@
-﻿package com.mao.tetris;
+package com.mao.tetris;
 
 import java.awt.image.BufferedImage;
    /**单格*/
